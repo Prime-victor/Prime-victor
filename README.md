@@ -1,53 +1,77 @@
-<h3 align="center">
+<div align="center">
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+It's+victor☠️;I+use+Arch+BTW)](https://git.io/typing-svg)
+</div>
 
-</h3>
+---
 
+Hey, I'm Victor Kiptum 👋
+
+Full-Stack Engineer & Product Builder. I build software that solves real problems — from agriculture monitoring platforms and civic tech tools to AI-powered systems and cross-platform mobile apps. React, Next.js, and TypeScript on the frontend. Django, Node.js, and PostgreSQL on the backend. LangChain and PyTorch when the problem calls for it.
+
+I spend most of my time thinking about system design, clean API contracts, and how to take an idea from zero to a deployed product that real users can rely on. I prefer shipping over planning, and I care more about whether something works in production than whether it looks good in a demo.
+
+
+Reach me at: [victorkiptum85@gmail.com](mailto:victorkiptum85@gmail.com) · [kiptum-portfolio.vercel.app](https://kiptum-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/victor-kiptum-799b0b24b)
+
+---
+
+## Things I build with
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+**AI & Data**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+
+## GitHub Stats
 
 <div align="center">
-   <a href="https://archlinux.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> 
-    </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prime-victor&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prime-victor&theme=tokyonight)
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prime-victor&theme=tokyonight" width="49%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prime-victor&theme=tokyonight" width="49%" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prime-victor&theme=tokyonight" width="49%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prime-victor&theme=tokyonight&utcOffset=3" width="49%" />
+
 </div>
 
-<br>
+---
 
-	
-<br>
+<div align="center">
 
-<div align="center">	
+**Building things that matter. Open to collaborations. 🌍**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prime-victor&theme=shadow-green&border_radius=13.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prime-victor&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prime-victor&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prime-victor&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prime-victor&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prime-victor&theme=blueberry&utcOffset=8)
- 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow-green&border_radius=13)
-  
-  <div class="footer" align="center" style="margin:15px;">
-    <a href="mailto:victorkiptum85@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-    
 </div>
-<h3 align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
-
-</h3>
-
-
-  
-
-
-
-<!---
-Prime-victor/Prime-victor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
