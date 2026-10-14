@@ -13,7 +13,7 @@ Full-Stack Engineer & Product Builder. I build software that solves real problem
 I spend most of my time thinking about system design, clean API contracts, and how to take an idea from zero to a deployed product that real users can rely on. I prefer shipping over planning, and I care more about whether something works in production than whether it looks good in a demo.
 
 
-Reach me at: [victorkiptum85@gmail.com](mailto:victorkiptum85@gmail.com) · [kiptum-portfolio.vercel.app](https://kiptum-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/victor-kiptum-799b0b24b)
+Reach me at: [victorkiptum85@gmail.com](mailto:victorkiptum85@gmail.com) · [https://www.victorkiptum.co.ke/](https://kiptum-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/victor-kiptum-799b0b24b)
 
 ---
 
